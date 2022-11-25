@@ -3,6 +3,11 @@
 
 ## Build
 
+- Create the database
+  - Run the sql query in ```sql/query.sql``` to create the database and tables
+
+<br>
+
 - Clone the repo
 ```
 git clone git@github.com:lu-css/basic-todolist-api.git
